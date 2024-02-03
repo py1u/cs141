@@ -1,3 +1,4 @@
-##CS141: Data Structures and Algoritmns
+## CS141: Data Structures and Algoritmns
 
-#winter 2023
+# Winter 2023
+# Grade: 96.7(A)
